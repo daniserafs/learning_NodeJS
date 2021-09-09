@@ -1,0 +1,26 @@
+{
+    "name": "learning_nodejs",
+    "version": "1.0.0",
+    "description": "learning node",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "learning",
+        "nodejs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/daniserafs/learning_NodeJS.git"
+    },
+    "author": "Daniela Serafim Soares",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/daniserafs/learning_NodeJS/issues"
+    },
+    "homepage": "https://github.com/daniserafs/learning_NodeJS#readme",
+    "dependencies": {
+        "cfonts": "^2.9.3"
+    }
+}
