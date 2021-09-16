@@ -29,4 +29,4 @@
     - NOT a programming language
 
 # Why is NodeJS so fast?
-    - Node is single-threaded, non-blocking and assynchronous
+    - Node is single-threaded, non-blocking and asynchronous
